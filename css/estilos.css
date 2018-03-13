@@ -1,0 +1,25 @@
+body{
+	margin-top: 60px;
+}
+
+.margenArriba{
+	margin-top:25px;
+}
+
+.esquinasCuadradas{
+	border-radius: 0px; 
+}
+
+.titulo{
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.ordenar{
+	text-decoration: none; 
+	color: white;
+}
+
+
+
+
